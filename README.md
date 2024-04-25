@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @lindsayjthurston
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>Hi, I'm Lindsay! </h1>
 
-<!---
-lindsayjthurston/lindsayjthurston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2>Computer Science and Economics Student at Boston University</h2>
+<a>She/Her</a>
+
+<a>Visit My</a>
+<a href="https://www.linkedin.com/in/lindsthurston/">LinkedIn!</a>
+
+
+
+<b>Coding Projects:</b>
+
+<a>HTML:</a>
+
+<a>Python:</a>
+
+
+
+
+
+
+
+
